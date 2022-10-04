@@ -1,4 +1,9 @@
 # HC-06 bluetooth module
+	- bluetooth 2.0으로 IOS(애플 제품)과 연결 불가능
+	(아이폰 13 테스트 결과 아이폰 -> hc-06 전송시 시리얼 모니터에 표시되지만 반대의 경우 작동 X)
+
+## 제품 사진
+<img src="./img/product_img.jpg" width=50% height=50%>
 
 ## 사양
 	- 작동 전압 : 3.3V ~ 5V
