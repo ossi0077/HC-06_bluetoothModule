@@ -40,8 +40,11 @@
 	1.	소스코드 'code/example_code_1.cpp' 업로드
 	2.	AT(대문자로 입력) 시리얼 모니터로 전송 후 OK응답 확인
 ![AT_result.png](./img/AT_result.png)
+
 	3.	스마트폰 'Serial Bluetooth Terminal'앱 설치
 	4.	앱 접속 후 HC-06 연결
 	5.	텍스트 전송하여 작동하는지 확인(본문에서는 AT이후 가독성이 좋도록 시리얼 모니터 전송옵션을 'Both NL & CR'로 변경하였습니다.)
-![Connect_result_cellphone.jpg](./img/Connect_result_cellphone.jpg)
+
+<img src="./img/Connect_result_cellphone.jpg" width=50% height=50%>
+
 ![Connect_result_pc.png](./img/Connect_result_pc.png)
